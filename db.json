@@ -27,6 +27,6 @@
                 {"emoji": ":sob:", "title": "Sad", "type": 0},
                 {"emoji": ":grimacing:", "title": "Happy", "type": 2},
                 {"emoji": ":weary:", "title": "Tired", "type": 1},
-                {"emoji": ":disappointed:", "title": "down", "type": 0},
-            ],
+                {"emoji": ":disappointed:", "title": "down", "type": 0}
+            ]
 }
